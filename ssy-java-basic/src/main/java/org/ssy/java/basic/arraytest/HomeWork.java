@@ -10,7 +10,7 @@ import java.util.Random;
  */
 public class HomeWork {
 	public static void main(String[] args) {
-		int[] count = new int[41]; // 定义10-50对应数字出现的次数
+		int[] count = new int[41]; // 定义10-50对应数字出现的数
 		Random random = new Random();
 
 		for (int i = 0; i < 50; i++) {

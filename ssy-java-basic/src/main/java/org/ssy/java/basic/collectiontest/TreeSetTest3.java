@@ -7,7 +7,7 @@ import java.util.TreeSet;
 /**
  * @author	Lian
  * @time	2015年11月3日 上午1:07:58
- * @desc	
+ * @desc	简单的测试Comparator类
  */
 public class TreeSetTest3 {
 	public static void main(String[] args) {
